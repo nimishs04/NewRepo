@@ -8,7 +8,7 @@ import stdiomask
 mydb = mysql.connector.connect(
   host="localhost",
   user="Nimish",
-  password="password123#",
+  password="XXXXXX",
   database='BusMgmt'
 )
 l ='='*74
